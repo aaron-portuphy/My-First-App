@@ -7,7 +7,9 @@ import FourthComponent from './FourthComponent';
 import FifthComponent from './FifthComponent';
 import SixthComponent from './SixthComponent';
 import SeventhComponent from './SeventhComponent';
-
+import EigthComponent from './EigthComponent';
+import NinthComponent from './NinthComponent';
+import TenthComponent from './TenthComponent';
 
 function App() {
   return (
@@ -21,6 +23,9 @@ function App() {
       <FifthComponent />
       <SixthComponent />
       <SeventhComponent />
+      <EigthComponent />
+      <NinthComponent />
+      <TenthComponent />
       <p> This is a new world of PreMEST</p>
       <h1>This is a heading</h1>
 
